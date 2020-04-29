@@ -1,4 +1,4 @@
-# Finra
+# Finra Assessment
 
 ## Steps to run the application:
 
